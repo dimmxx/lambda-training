@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a289204-7fe7-4850-9a31-ee98777d19f8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WwOumaowATh8R3diNTnYZHr4OK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.App3">
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.company.method_links.App1" />
+      <module name="LambdaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.company.method_links.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.company.constructor_links.App2" />
+      <module name="LambdaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.company.constructor_links.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.company.App3" />
+      <module name="LambdaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.company.AppBoolean" />
+      <module name="LambdaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.company.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppGeneric2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my.company.AppGeneric2" />
+      <module name="LambdaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my.company.functional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App3" />
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App1" />
+        <item itemvalue="Application.AppBoolean" />
+        <item itemvalue="Application.AppGeneric2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a289204-7fe7-4850-9a31-ee98777d19f8" name="Default Changelist" comment="" />
+      <created>1580057415976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580057415976</updated>
+      <workItem from="1580057417417" duration="2074000" />
+      <workItem from="1580092312479" duration="1856000" />
+      <workItem from="1580131992260" duration="40000" />
+      <workItem from="1580132219589" duration="3450000" />
+      <workItem from="1580138934375" duration="375000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1580135847328">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser/0.23.1280.712@0.23.1280.712" timestamp="1580135847328" />
+    <state x="167" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580092982023">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="167" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.712@0.23.1280.712" timestamp="1580092982023" />
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom" timestamp="1580139510800">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1580139510800" />
+    <state width="1238" height="186" key="GridCell.Tab.0.center" timestamp="1580139510798">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1580139510798" />
+    <state width="1238" height="186" key="GridCell.Tab.0.left" timestamp="1580139510797">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1580139510797" />
+    <state width="1238" height="186" key="GridCell.Tab.0.right" timestamp="1580139510799">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="186" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1580139510799" />
+  </component>
+</project>
