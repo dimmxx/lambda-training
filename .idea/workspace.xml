@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a289204-7fe7-4850-9a31-ee98777d19f8" name="Default Changelist" comment="" />
+    <list default="true" id="7a289204-7fe7-4850-9a31-ee98777d19f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App4Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/META-INF/LambdaTraining.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/App3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/App3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppGeneric2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppGeneric2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppVoid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/AppVoid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/constructor_links/App2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/constructor_links/App2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/constructor_links/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/constructor_links/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassBoolean.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassBoolean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassGeneric2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassGeneric2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassVoid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/MyClassVoid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/UserBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/functional/UserBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/method_links/App1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/method_links/App1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/method_links/ExpressionHelper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LambdaTraining/my/company/method_links/ExpressionHelper.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +28,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WwOumaowATh8R3diNTnYZHr4OK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.App3">
+  <component name="RunManager" selected="Application.App4Function">
     <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.company.method_links.App1" />
       <module name="LambdaTraining" />
@@ -67,6 +92,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="App4Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="App4Function" />
+      <module name="LambdaTraining" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AppBoolean" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="my.company.AppBoolean" />
       <module name="LambdaTraining" />
@@ -80,26 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppGeneric2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my.company.AppGeneric2" />
-      <module name="LambdaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="my.company.functional.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.App4Function" />
         <item itemvalue="Application.App3" />
         <item itemvalue="Application.App2" />
         <item itemvalue="Application.App1" />
         <item itemvalue="Application.AppBoolean" />
-        <item itemvalue="Application.AppGeneric2" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +147,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -130,36 +163,24 @@
       <workItem from="1580131992260" duration="40000" />
       <workItem from="1580132219589" duration="3450000" />
       <workItem from="1580138934375" duration="375000" />
+      <workItem from="1620529817009" duration="1162000" />
+      <workItem from="1620544857841" duration="1394000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1580135847328">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state x="453" y="70" key="#com.intellij.ide.util.MemberChooser/0.23.1280.712@0.23.1280.712" timestamp="1580135847328" />
-    <state x="167" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1580092982023">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state x="167" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1280.712@0.23.1280.712" timestamp="1580092982023" />
-    <state width="1238" height="186" key="GridCell.Tab.0.bottom" timestamp="1580139510800">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state width="1238" height="186" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1580139510800" />
-    <state width="1238" height="186" key="GridCell.Tab.0.center" timestamp="1580139510798">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state width="1238" height="186" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1580139510798" />
-    <state width="1238" height="186" key="GridCell.Tab.0.left" timestamp="1580139510797">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state width="1238" height="186" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1580139510797" />
-    <state width="1238" height="186" key="GridCell.Tab.0.right" timestamp="1580139510799">
-      <screen x="0" y="23" width="1280" height="712" />
-    </state>
-    <state width="1238" height="186" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1580139510799" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
